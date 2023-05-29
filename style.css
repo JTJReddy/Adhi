@@ -49,10 +49,28 @@ footer {
   text-align: center;
 }
 
-.image{
+#im1{
+	display:block;
+	width:1280px;
+	height:2486px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+#im2{
 	display:block;
 	width:1183px;
 	height:2289px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+#im3{
+	display:block;
+	width:612px;
+	height:612px;
 	margin-left:auto;
 	margin-right:auto;
 }
